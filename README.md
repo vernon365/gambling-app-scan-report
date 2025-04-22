@@ -115,4 +115,4 @@ There is **no clear legitimate justification** for a gambling app to request suc
 
 ## 🚫 Recommendation
 
-**Do not use or install this application.** It should be considered **high-risk or outright malicious**. The application must be reported to relevant security vendors and platform stores for takedown and blacklisting.
+**Do not use or install this application.** It should be considered **high-risk or outright malicious**.
