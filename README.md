@@ -1,5 +1,7 @@
 # 📄 Application Risk Analysis Report
 
+Access the full report in the pdf above
+
 **App Name:** MEGAKAYA777  
 **Package:** `com.megakaya777png.h5wrap`  
 **Version:** 1.3.0  
